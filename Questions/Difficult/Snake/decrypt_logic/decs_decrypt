@@ -1,0 +1,2 @@
+Write a decryption algorithm to decrypt the string in the file
+Hint : the decryption algorithm is a slight modification of ceaser cipher where the shift increases as we travel left to right
