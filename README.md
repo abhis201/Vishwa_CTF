@@ -33,11 +33,3 @@
 <h3> No. of participants </h3>
 <p> Uno </p>
 
-<br />
-<h3> Event Co-ordinator </h3>
-<address>
-<a href="mailto:gibraan.jafar@viit.ac.in">Gibraan Jafar</a>
-   Ph No : 8793068059
-</address>
-<br />
-
